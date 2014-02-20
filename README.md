@@ -7,8 +7,8 @@ Geliştirilme aşaması halen devam etmektedir.
 
 Kullanımı
 ---------
-./RPIdetect
+**./RPIdetect**
 Ip adresi belirtilmezse sistemin varsayılan ağ geçidi üzerinden tarama gerçekleştirecektir.
 
-./RPIdetect -i <ip_adress>
+**./RPIdetect -i <ip_adress>**
 Çoklu ağ geçidini birbirinden ayırmak için bunu kullanabilirsiniz.
