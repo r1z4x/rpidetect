@@ -3,6 +3,7 @@
 ### @name, RPIdetect
 ### @author, rizacantufan
 ### @version, v1.0
+### @mail, rizacantufan@gmail.com
 ################# 
 
 #nmap installed control
