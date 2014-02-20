@@ -11,4 +11,4 @@ Kullanımı
 Ip adresi belirtilmezse sistemin varsayılan ağ geçidi üzerinden tarama gerçekleştirecektir.
 
 **./RPIdetect -i <ip_adress>**
-Birden fazla ağ geçidini ip adresi ile ayırabilirsiniz.
+Birden fazla ağ geçidini ip adresini belirterek ayırabilirsiniz.
